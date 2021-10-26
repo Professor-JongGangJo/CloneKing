@@ -2136,10 +2136,6 @@ MonoBehaviour:
     m_Options:
     - m_Text: Map1
       m_Image: {fileID: 0}
-    - m_Text: Map2
-      m_Image: {fileID: 0}
-    - m_Text: Map3
-      m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []

@@ -68,7 +68,7 @@ public class NetworkManager : Manager.SingletonPhoton<NetworkManager>
         if ( _trySinglePlay)
         {
             PhotonNetwork.offlineMode = true;
-            SceneManager.LoadScene("Map3");
+            SceneManager.LoadScene("Map1");
         }
 
         base.OnDisconnectedFromPhoton();
